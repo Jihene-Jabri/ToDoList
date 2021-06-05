@@ -1,0 +1,12 @@
+.AddTaskContainer {
+    text-align: center;
+    padding-top: 60px;
+}
+.addField {
+    width: 735px;
+    display: flex;
+    margin-left: 370px;
+}
+.add-btn {
+    width: 50px;
+}
